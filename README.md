@@ -1,0 +1,2 @@
+# loopback-common
+Loopback commons
